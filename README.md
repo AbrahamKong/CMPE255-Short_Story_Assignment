@@ -6,4 +6,4 @@ Medium.com Link:
 https://medium.com/@abraham.jkong/what-should-i-know-about-cross-validation-as-a-data-science-beginner-3c02084f8a7d
 
 SlideShare.com Link:
-https://www.slideshare.net/AbrahamKong/cmpe-255-cross-validation
+https://www.slideshare.net/AbrahamKong/cmpe-255-cross-validation-250759851
